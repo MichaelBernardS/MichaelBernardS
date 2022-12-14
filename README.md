@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/MichaelBernardS">
-  <img height="158em" src="https://github-readme-stats-gamma-green.vercel.app/api/top-langs/?username=MichaelBernardS&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="190em" src="https://github-readme-stats-gamma-green.vercel.app/api/top-langs/?username=MichaelBernardS&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="158em" src="https://github-readme-stats-gamma-green.vercel.app/api/top-langs/?username=MichaelBernardS&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
