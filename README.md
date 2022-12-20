@@ -1,7 +1,5 @@
 # Hi there!! I'm Michael Bernard 😄
 
-## About me
-
 - 🔭 I’m currently working with Back-end
 - 🌱 I’m currently learning Java, JavaScript, CSS and HTML.
 - 📫 How to reach me: mich4el_bernard@hotmail.com
