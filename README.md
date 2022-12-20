@@ -21,7 +21,7 @@
   <img align="center" alt="Michael-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Michael-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">     
 </div>
-  <img align="right" alt="Michael-gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif">
+  <img align="right" alt="Michael-gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/2xyx8KRogVl7iM6wHs/giphy.gif">
   
 ##
  
