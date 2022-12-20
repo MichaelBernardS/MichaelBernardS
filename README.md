@@ -1,6 +1,6 @@
 # Hi there!! I'm Michael Bernard 😄
 
-## Sobre mim
+## About me
 
 - 🔭 I’m currently working with Back-end
 - 🌱 I’m currently learning Java, JavaScript, CSS and HTML.
@@ -20,7 +20,7 @@
   <img align="center" alt="Michael-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Michael-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Michael-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">     
-  <img align="right" alt="Michael-gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/H7r5XcQccQvlXPwUOR/giphy.gif">
+  <img align="right" alt="Michael-Gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/H7r5XcQccQvlXPwUOR/giphy.gif">
   </div>
   
 ##
@@ -32,5 +32,4 @@
    <img src="https://img.shields.io/badge/MichaelBernard%237383-7289DA?style=for-the-badge&logo=discord&logoColor=white">
  
 ![Snake animation](https://github.com/MichaelBernardS/MichaelBernardS/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
