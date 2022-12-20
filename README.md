@@ -20,7 +20,7 @@
   <img align="center" alt="Michael-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Michael-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Michael-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">     
-  <img align="right" alt="Michael-gif" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/hVmfCpIZurmRd3iiLr/giphy.gif?cid=ecf05e47o701efnza7zbttzfifwftfqy4szlx1guf63eda87&rid=giphy.gif&ct=s">
+  <img align="right" alt="Michael-gif" height="150" style="border-radius:50px;" src="https://pin.it/7dknicx">
   </div>
   
 ##
